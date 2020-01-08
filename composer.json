@@ -3,8 +3,7 @@
     "description": "Chorme qietugou\/bookmark",
     "license": "MIT",
     "require": {
-        "phpunit/phpunit": "^8.5",
-        "mockery/mockery": "^1.3"
+        "php": ">=7.1"
     },
     "autoload": {
         "psr-4": {

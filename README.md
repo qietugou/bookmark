@@ -1,6 +1,6 @@
 <h1 align="center"> bookmark </h1>
 
-<p align="center">根据路径解析 Chrome 书签 </p>
+<p align="center">git remote add origin git@github.com:gotophp/bookmark.git </p>
 
 
 ## Installing
